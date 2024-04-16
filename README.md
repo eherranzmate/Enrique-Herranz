@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 💖 Check all my works by clicking on this organized library. https://github.com/eherranzmate
-- 🌱 I’m currently learning Fullstack Developing in the academy of UpgradeHub (Madrid,Spain)
+- 🌱 I have just finished my full stack developer studies at the UpgradeHub academy. (Madrid,Spain)
 - 📫 How to reach me: eherranzmate@gmail.com
 
 - <h3 align="left">Languages and Tools:</h3>
